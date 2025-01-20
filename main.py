@@ -2,13 +2,13 @@ import requests
 from datetime import datetime
 import smtplib
 import time
-sender = "dimeji_mike@yahoo.com"
+sender = "sender_email@gmail.com"
 gm_password = "........"
 y_password = "..........."
-receiver = 'dimejimike9@gmail.com'
+receiver = 'receiver_email@gmail.com'
 
-MY_LAT = 6.548620   # Your latitude
-MY_LONG = 3.364490  # Your longitude
+MY_LAT = 6.00000   # Your latitude
+MY_LONG = 6.000000  # Your longitude
 
 
 def is_overhead():
